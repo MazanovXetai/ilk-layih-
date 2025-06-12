@@ -39,8 +39,10 @@ nav ul li a:hover {
   background-color: #34495e;
   color: #ffcc00;
 }
-.logo img {
-  height: 40px;
+sekil-container img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 10px;
 body {
   margin: 0;
   padding-top: 70px; 
