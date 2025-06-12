@@ -1,11 +1,9 @@
-body {
+button {
     background-color: white;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin-top: auto;
 }
-h1 {
-    color: red;
+button:hover {
+    background-color:#29;
 }
-p  {color: thistle;
-font-size: large;}
