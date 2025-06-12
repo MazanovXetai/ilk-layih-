@@ -10,10 +10,8 @@ h1 {
 p  {color: thistle;
 font-size: large;}
 button  {
-    color: white;
+    color: red;
     border: none;
     curser: pointer;
 }
-button: hover {
-    background-color: #29;
-}
+
