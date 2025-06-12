@@ -1,11 +1,19 @@
 body {
-    background-color: blue;
+    background-color: white;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin-top: auto;
 }
 h1 {
-    color: white;
+    color: blue;
 }
 p  {color: thistle;
-font-size: medium;}
+font-size: large;}
+button  {
+    color: white;
+    border: none;
+    curser: pointer;
+}
+button: hover {
+    background-color: #29;
+}
