@@ -2,6 +2,7 @@
   .nav-container {
     flex-direction: column;
     align-items: center;
+  }
 button {
     background-color: blue;
     font-family: 'Times New Roman', Times, serif;
@@ -43,10 +44,11 @@ nav ul li a:hover {
   background-color: #34495e;
   color: #ffcc00;
 }
-sekil-container img {
+.sekil-container img {
   max-width: 80%;
   height: auto;
   border-radius: 10px;
+}
 body {
   margin: 0;
   padding-top: 70px; 
